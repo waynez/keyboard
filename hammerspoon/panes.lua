@@ -7,7 +7,7 @@ local itermHotkeyMappings = {
 
   -- Use control + pipe to split panes vertically
   {
-    from = {{'ctrl', 'shift'}, '\\'},
+    from = {{'ctrl'}, '\\'},
     to   = {{'cmd'}, 'd'}
   },
 
